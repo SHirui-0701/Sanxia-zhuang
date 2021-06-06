@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Mate+SC&display=swap');
 .background{
-    background-image: url("../images/containing/ World/Mapcomp.gif");
+    background-image: url("../images/containing\ World\ Mapcomp.gif");
     width: 1280px; 
     height: 720px; 
     background-size: cover;
